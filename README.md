@@ -1,4 +1,4 @@
-I’m Debbie. Currently I'm studying Master of Applied Earth Sciences at Delft University of Technology (TU Delft).
+MSc Applied Earth Sciences, Faculty of Civil Engineering and Geosciences, Delft University of Technology
 
 <!---
 debnovalina/debnovalina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
